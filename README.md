@@ -1,4 +1,2 @@
-# API Definitions
-This is my API definitions research.
-You can view the site at: http://definitions.apievangelist.com/
-You can contribue using Github issues on this project.
+# Public Data Monetization
+This is my work to stimulate a conversation around generating revenue using public data.
